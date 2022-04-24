@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pssir/demmo25.git/static/css/main.073c9b0a.css",
+    "main.js": "/pssir/demmo25.git/static/js/main.3fbe76f2.js",
+    "static/js/787.9d76b68a.chunk.js": "/pssir/demmo25.git/static/js/787.9d76b68a.chunk.js",
+    "static/media/logo.svg": "/pssir/demmo25.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pssir/demmo25.git/index.html",
+    "main.073c9b0a.css.map": "/pssir/demmo25.git/static/css/main.073c9b0a.css.map",
+    "main.3fbe76f2.js.map": "/pssir/demmo25.git/static/js/main.3fbe76f2.js.map",
+    "787.9d76b68a.chunk.js.map": "/pssir/demmo25.git/static/js/787.9d76b68a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3fbe76f2.js"
+  ]
+}
